@@ -45,12 +45,18 @@ The figures folder contains all figures obtained by running the notebook `01_exp
 
 ## Findings
 
-### The exploratory data anaylsis
+### The exploratory data analysis
 
-- The upset rate decreased as the ranking gap increased.
-- Between hard, grass and clay surfaces, there was no consistent trend in which surface had the highest upset rate each year.
-- The upset rate increased as the tournament rounds progressed, that is, on average there were more upsets in later rounds than in early rounds. 
+We analysed WTA matches from 2000 to 2025 and found the following.
 
+- The upset rate decreased as the ranking gap increased. When the two players had a difference in ranking less than 10, the upset rate was 45.8%, compared with a lower than 30% upset rate for players with a difference in rankings over 60.
+  
+- Between hard, grass and clay surfaces, there was no clear pattern in which surface had the highest upset rate each year.
+  
+- The upset rate increased as the tournament rounds progressed, that is, on average there were more upsets in later rounds than in early rounds. There was an upset rate of 33.5% in round of 128 matches, compared with an upset rate of 38.3% amongst matches played in finals.
+
+![Upset rate by surface](figures/upset_rate_by_surface.png)
+![Upset rate by ranking gap](figures/upset_rate_by_rank_gap.png)
 ![Upset rate by tournament round](figures/upset_rate_by_round.png)
 
 
