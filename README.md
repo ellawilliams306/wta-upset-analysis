@@ -55,8 +55,8 @@ We analysed WTA matches from 2000 to 2025 and found the following.
   
 - The upset rate increased as the tournament rounds progressed, that is, on average there were more upsets in later rounds than in early rounds. There was an upset rate of 33.5% in round of 128 matches, compared with an upset rate of 38.3% amongst matches played in finals.
 
-![Upset rate by surface](figures/upset_rate_by_surface.png)
 ![Upset rate by ranking gap](figures/upset_rate_by_rank_gap.png)
+![Upset rate by surface](figures/upset_rate_by_surface.png)
 ![Upset rate by tournament round](figures/upset_rate_by_round.png)
 
 
