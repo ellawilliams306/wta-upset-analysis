@@ -62,6 +62,8 @@ We analysed WTA matches from 2000 to 2025 and found the following.
 
 ### The logistic regression model
 
+We train and evaluate a logistic regression model using training data from 2000-2024, and using 2025 as the test year, that predicts whether a game is going to be an upset or not. The model will assign to each possible input a prediction probability of the match being an upset. 
+
 - None of the matches were predicted an upset probability above the threshold of 50%.
 
 - The 30 matches with the highest upset prediction probabilities contained 1.33x more real upsets on average than the overall rate; 50% of the top 30 matches were real upsets, compared with 37.6% overall.
